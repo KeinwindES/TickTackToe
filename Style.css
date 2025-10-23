@@ -1,0 +1,51 @@
+h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    line-height: 1.5;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+div {
+    margin-bottom: 1em;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+nav {
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+
+.box {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.item {
+    margin: 5px 0;
+}
